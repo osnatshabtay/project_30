@@ -1,0 +1,31 @@
+body{
+    background:#D9D9D9;
+}
+
+.menu{
+    position: absolute;
+    width: 692px;
+    height: 723px;
+    left: 610px;
+    top: 161px;
+    background: #A4BFE9;
+    opacity: 0.7;
+    box-shadow: 0px 4px 4px rgba(0, 0, 0, 0.25);
+    border-radius: 20px;
+}
+.menu_button{
+    width: 130px;
+    height: 35px;
+    left: 51px;
+    top: 85px;
+    
+    font-family: 'Inter';
+    font-style: normal;
+    font-weight: 100;
+    font-size: 36px;
+    line-height: 44px;
+    text-align: middle;
+    
+    color: #EEEEEE;
+    background: #9b9da0
+}
